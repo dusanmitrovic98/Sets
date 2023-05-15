@@ -41,6 +41,6 @@ public class Set<T>
 
     public void Clear()
     {
-        // todo implement
+        this._set.Clear();
     }
 }
