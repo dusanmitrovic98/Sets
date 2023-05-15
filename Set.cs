@@ -38,4 +38,9 @@ public class Set<T>
     {
         this._set.RemoveAt(index);
     }
+
+    public void Clear()
+    {
+
+    }
 }
