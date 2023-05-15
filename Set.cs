@@ -8,4 +8,9 @@ public class Set<T>
     {
         this._set = new List<T>();
     }
+
+    public int Count
+    {
+        get { return 0; }
+    }
 }
