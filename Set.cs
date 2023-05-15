@@ -28,4 +28,9 @@ public class Set<T>
 
         this._set.Add(item);
     }
+
+    public void Remove(T item)
+    {
+        throw new NotImplementedException();
+    }
 }
