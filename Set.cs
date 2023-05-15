@@ -1,6 +1,6 @@
 ﻿namespace DataStructures.Collections.Sets;
 
-public class Set
+public class Set<T>
 {
 
 }
