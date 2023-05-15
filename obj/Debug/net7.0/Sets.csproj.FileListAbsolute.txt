@@ -1,0 +1,12 @@
+C:\Users\BK2O198\Documents\Workstation\Sets\bin\Debug\net7.0\Sets.deps.json
+C:\Users\BK2O198\Documents\Workstation\Sets\bin\Debug\net7.0\Sets.dll
+C:\Users\BK2O198\Documents\Workstation\Sets\bin\Debug\net7.0\Sets.pdb
+C:\Users\BK2O198\Documents\Workstation\Sets\obj\Debug\net7.0\Sets.csproj.AssemblyReference.cache
+C:\Users\BK2O198\Documents\Workstation\Sets\obj\Debug\net7.0\Sets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BK2O198\Documents\Workstation\Sets\obj\Debug\net7.0\Sets.AssemblyInfoInputs.cache
+C:\Users\BK2O198\Documents\Workstation\Sets\obj\Debug\net7.0\Sets.AssemblyInfo.cs
+C:\Users\BK2O198\Documents\Workstation\Sets\obj\Debug\net7.0\Sets.csproj.CoreCompileInputs.cache
+C:\Users\BK2O198\Documents\Workstation\Sets\obj\Debug\net7.0\Sets.dll
+C:\Users\BK2O198\Documents\Workstation\Sets\obj\Debug\net7.0\refint\Sets.dll
+C:\Users\BK2O198\Documents\Workstation\Sets\obj\Debug\net7.0\Sets.pdb
+C:\Users\BK2O198\Documents\Workstation\Sets\obj\Debug\net7.0\ref\Sets.dll
