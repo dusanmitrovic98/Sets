@@ -14,6 +14,12 @@ public class Set<T>
         get { return this._set.Count; }
     }
 
+    public bool Contains(T item)
+    {
+        return false;
+    }
+
+
     public void Add(T item)
     {
         throw new NotImplementedException();
