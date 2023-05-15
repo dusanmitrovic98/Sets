@@ -31,6 +31,6 @@ public class Set<T>
 
     public void Remove(T item)
     {
-        throw new NotImplementedException();
+        this._set.Remove(item);
     }
 }
