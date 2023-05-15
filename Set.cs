@@ -9,6 +9,12 @@ public class Set<T>
         this._set = new List<T>();
     }
 
+    public List<T> Values
+    {
+        get { return this._set; }
+        set { this._set = value; }
+    }
+
     public int Count
     {
         get { return this._set.Count; }
