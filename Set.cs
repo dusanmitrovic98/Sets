@@ -19,7 +19,6 @@ public class Set<T>
         return this._set.Contains(item);
     }
 
-
     public void Add(T item)
     {
         throw new NotImplementedException();
