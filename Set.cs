@@ -43,4 +43,13 @@ public class Set<T>
     {
         this._set.Clear();
     }
+
+    public Set<T> Union(Set<T> otherSet)
+    {
+        Set<T> resultSet = new Set<T>();
+
+        // todo implement
+
+        return resultSet;
+    }
 }
