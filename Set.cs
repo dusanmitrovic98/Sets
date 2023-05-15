@@ -11,6 +11,6 @@ public class Set<T>
 
     public int Count
     {
-        get { return 0; }
+        get { return this._set.Count; }
     }
 }
