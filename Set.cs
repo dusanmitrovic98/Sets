@@ -36,6 +36,6 @@ public class Set<T>
 
     public void RemoveAt(int index)
     {
-        throw new NotImplementedException();
+        this._set.RemoveAt(index);
     }
 }
