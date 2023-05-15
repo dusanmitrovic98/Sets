@@ -50,7 +50,7 @@ public class Set<T>
 
         foreach (T item in this._set)
         {
-            // todo implement
+            resultSet.Add(item);
         }
 
         // todo implement
