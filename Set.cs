@@ -16,7 +16,7 @@ public class Set<T>
 
     public bool Contains(T item)
     {
-        return false;
+        return this._set.Contains(item);
     }
 
 
