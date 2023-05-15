@@ -13,4 +13,9 @@ public class Set<T>
     {
         get { return this._set.Count; }
     }
+
+    public void Add(T item)
+    {
+
+    }
 }
