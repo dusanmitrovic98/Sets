@@ -48,6 +48,11 @@ public class Set<T>
     {
         Set<T> resultSet = new Set<T>();
 
+        foreach (T item in this._set)
+        {
+            // todo implement
+        }
+
         // todo implement
 
         return resultSet;
