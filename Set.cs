@@ -59,7 +59,10 @@ public class Set<T>
             resultSet.Add(item);
         }
 
-        // todo implement
+        foreach (T item in otherSet.Values)
+        {
+            resultSet.Add(item);
+        }
 
         return resultSet;
     }
