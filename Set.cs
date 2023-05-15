@@ -25,5 +25,7 @@ public class Set<T>
         {
             return;
         }
+
+        this._set.Add(item);
     }
 }
