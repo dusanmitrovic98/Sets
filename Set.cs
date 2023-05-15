@@ -54,7 +54,7 @@ public class Set<T>
     {
         Set<T> resultSet = new Set<T>();
 
-        foreach (T item in this._set)
+        foreach (T item in this.Values)
         {
             resultSet.Add(item);
         }
