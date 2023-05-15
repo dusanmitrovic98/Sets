@@ -6,6 +6,6 @@ public class Set<T>
 
     public Set()
     {
-
+        this._set = new List<T>();
     }
 }
