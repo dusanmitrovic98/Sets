@@ -96,4 +96,10 @@ public class Set<T>
 
         return resultSet;
     }
+
+    public bool IsSubsetOf(Set<T> otherSet)
+    {
+
+        return true;
+    }
 }
