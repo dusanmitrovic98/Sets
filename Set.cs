@@ -99,6 +99,10 @@ public class Set<T>
 
     public bool IsSubsetOf(Set<T> otherSet)
     {
+        foreach (T item in this.Values)
+        {
+
+        }
 
         return true;
     }
