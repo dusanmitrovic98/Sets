@@ -101,7 +101,10 @@ public class Set<T>
     {
         foreach (T item in this.Values)
         {
+            if (!otherSet.Contains(item))
+            {
 
+            }
         }
 
         return true;
