@@ -66,4 +66,11 @@ public class Set<T>
 
         return resultSet;
     }
+
+    public Set<T> Intersection(Set<T> otherSet)
+    {
+        Set<T> resultSet = new Set<T>();
+
+        return resultSet;
+    }
 }
