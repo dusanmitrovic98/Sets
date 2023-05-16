@@ -90,7 +90,7 @@ public class Set<T>
         {
             if (!otherSet.Contains(item))
             {
-
+                resultSet.Add(item);
             }
         }
 
