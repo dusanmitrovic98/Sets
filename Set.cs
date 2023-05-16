@@ -71,6 +71,11 @@ public class Set<T>
     {
         Set<T> resultSet = new Set<T>();
 
+        foreach (T item in this.Values)
+        {
+
+        }
+
         return resultSet;
     }
 }
