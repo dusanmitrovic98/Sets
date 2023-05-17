@@ -114,7 +114,6 @@ public class Set<T>
     {
         foreach (T item in otherSet.Values)
         {
-
         }
         return true;
     }
