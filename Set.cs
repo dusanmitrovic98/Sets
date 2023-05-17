@@ -114,7 +114,7 @@ public class Set<T>
     {
         foreach (T item in otherSet.Values)
         {
-            if (Contains(item))
+            if (!Contains(item))
             {
 
             }
