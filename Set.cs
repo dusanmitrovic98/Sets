@@ -116,7 +116,7 @@ public class Set<T>
         {
             if (!Contains(item))
             {
-
+                return true;
             }
         }
 
