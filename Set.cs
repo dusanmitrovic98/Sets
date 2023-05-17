@@ -109,4 +109,9 @@ public class Set<T>
 
         return true;
     }
+
+    public bool IsSupersetOf(Set<T> otherSet)
+    {
+        throw new NotImplementedException();
+    }
 }
