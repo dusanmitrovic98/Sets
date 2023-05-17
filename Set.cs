@@ -112,6 +112,11 @@ public class Set<T>
 
     public bool IsSupersetOf(Set<T> otherSet)
     {
+
+        foreach (T item in otherSet.Values)
+        {
+
+        }
         return true;
     }
 }
