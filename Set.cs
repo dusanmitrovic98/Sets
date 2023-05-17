@@ -122,4 +122,9 @@ public class Set<T>
 
         return true;
     }
+
+    public IEnumerator<T> GetEnumerator()
+    {
+        return this._set.GetEnumerator();
+    }
 }
