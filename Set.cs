@@ -1,4 +1,4 @@
-namespace Data;
+namespace DataStructures;
 
 public class Set<T>
 {
