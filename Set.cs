@@ -1,4 +1,4 @@
-namespace DataStructures;
+namespace DataStructures.Collecgions;
 
 public class Set<T>
 {
