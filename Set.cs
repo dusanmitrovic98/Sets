@@ -2,7 +2,7 @@ namespace DataStructures.Collections.Sets;
 
 public class Set<T>
 {
-    private
+    private List<T>
 
     public Set()
     {
