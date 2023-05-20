@@ -1,4 +1,4 @@
-namespace 
+namespace Data;
 
 public class Set<T>
 {
